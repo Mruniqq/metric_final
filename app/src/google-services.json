@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863192606072",
+    "firebase_url": "https://metric-run-test-db-default-rtdb.firebaseio.com",
+    "project_id": "metric-run-test-db",
+    "storage_bucket": "metric-run-test-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863192606072:android:f7eeb10dd0ded1753fd48d",
+        "android_client_info": {
+          "package_name": "com.metricrun.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863192606072-ia5e2mjhpqpssi8qmk3fi9tr9m7sf65j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Iz-CCr0g2JIYwWaL_C8uCiK8v_S4VQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863192606072-ia5e2mjhpqpssi8qmk3fi9tr9m7sf65j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

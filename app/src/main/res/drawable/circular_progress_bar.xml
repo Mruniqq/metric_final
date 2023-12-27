@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="ring" android:useLevel="false">
+            <solid android:color="#e0e0e0" /> <!-- Color de fondo -->
+        </shape>
+    </item>
+    <item android:innerRadiusRatio="2.5" android:thicknessRatio="10.0" android:useLevel="true">
+        <rotate android:fromDegrees="0" android:toDegrees="360">
+            <shape android:shape="ring">
+                <gradient
+                    android:type="sweep"
+                    android:startColor="#4CAF50"
+                    android:centerColor="#FFEB3B"
+                    android:endColor="#F44336"
+                    android:useLevel="false" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

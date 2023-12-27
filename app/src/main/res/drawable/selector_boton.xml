@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/boton_pulsado" android:state_pressed="true"/> <!-- Cuando se pulsa -->
+    <item android:drawable="@drawable/boton_normal"/> <!-- Estado por defecto -->
+</selector>
